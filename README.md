@@ -10,12 +10,6 @@
 
 👯 Ask me about email <u>wen_tat86@hotmail.com</u>;
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
 <img align="left" height="160px" width="50%" src="https://github-readme-stats.vercel.app/api?username=wentata&show_icons=true&theme=dracula" />
