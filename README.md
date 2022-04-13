@@ -2,12 +2,18 @@
 
 <img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-🌱 I’m currently learning deep learning;
+🌱 I’m currently learning computer vision and machine learning;
 
 💼 major in computer science;
 
 👯 Ask me about email <u>wen_tat86@hotmail.com</u>;
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api?username=wentata&show_icons=true&theme=dracula" />
