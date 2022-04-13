@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning computer vision and machine learning;
 
+🔭 I’m currently working as vision software engineer
+
 💼 major in computer science;
 
 👯 Ask me about email <u>wen_tat86@hotmail.com</u>;
