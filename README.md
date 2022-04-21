@@ -8,7 +8,6 @@
 
 💼 major in computer science;
 
-👯 Ask me about email <u>wen_tat86@hotmail.com</u>;
 
 <br/>
 <br/>
